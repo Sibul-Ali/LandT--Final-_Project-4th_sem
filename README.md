@@ -1,4 +1,4 @@
-# L-T--Final-_Project-4th_sem
+# LanfT--Final-_Project-4th_sem
 DESIGN AND IMPLEMENTATION OF A    UART-TO-AXI LITE BRIDGE ON FPGA
 
 About:
